@@ -54,7 +54,7 @@ A hyper-detailed cinematic shot of a deep-sea coral reef at night. Glowing biolu
 A masterfully detailed cinematic underwater shot of a deep-sea coral reef at midnight, shot with a wide-angle macro lens. The foreground features branching coral formations pulsing with soft bioluminescent blues and greens, releasing tiny glowing particles that drift like slow-motion embers through the inky water. Schools of translucent fish with faintly glowing fins move in synchronized patterns, catching the ambient light as they pass. Shafts of pale moonlight filter down from the distant surface, cutting through suspended sediment and creating volumetric light rays. In the background, a massive gently pulsing jellyfish drifts past, its bell rippling with soft violet light. The seafloor is scattered with anemones swaying gently in the current, their tips tipped with faint phosphorescent glow. Ultra-realistic water caustics, subtle particulate haze, shallow depth of field, cinematic color grading, 8k resolution.
 
 **The Original Video:**
-https://github.com/user-attachments/assets/5bb5168b-80da-47f8-8735-05a94f52be25
+<video https://github.com/user-attachments/assets/5bb5168b-80da-47f8-8735-05a94f52be25 video/>
 
 **The Final Generated Video:**
 https://github.com/user-attachments/assets/e5e0a0fa-636b-44cc-8425-1be9eea410c2
