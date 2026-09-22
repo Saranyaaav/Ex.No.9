@@ -56,11 +56,10 @@ A masterfully detailed cinematic underwater shot of a deep-sea coral reef at mid
 **The Original Video:**
 <video src="https://github.com/user-attachments/assets/5bb5168b-80da-47f8-8735-05a94f52be25" controls="controls" muted="muted" autoplay="autoplay" style="max-height:640px;">
 </video>
-<video https://github.com/user-attachments/assets/5bb5168b-80da-47f8-8735-05a94f52be25>
-<video/>
 
 **The Final Generated Video:**
-https://github.com/user-attachments/assets/e5e0a0fa-636b-44cc-8425-1be9eea410c2
+<video src="https://github.com/user-attachments/assets/e5e0a0fa-636b-44cc-8425-1be9eea410c2" controls="controls" muted="muted" autoplay="autoplay" style="max-height:640px;">
+</video>
 
 ---
 
